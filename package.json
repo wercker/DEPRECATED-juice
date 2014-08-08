@@ -13,7 +13,7 @@
     "slick": "~1.12.1",
     "commander": "~2.3.0",
     "cssom": "~0.3.0",
-    "superagent": "~0.18.2",
+    "superagent": "https://github.com/wercker/superagent/tarball/feature/qsupdate",
     "jsdom": "~0.11.1",
     "pend": "~1.1.2"
   },
